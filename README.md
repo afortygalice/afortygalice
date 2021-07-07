@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @afortygalice
+- 👋 Hi, I’m @afortyga
 - 👀 I’m interested in music
 - 🌱 I’m currently learning Data Science in the University of Melbourne
 - 💞️ I’m looking to collaborate on ...
